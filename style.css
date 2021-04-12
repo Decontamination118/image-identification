@@ -1,0 +1,32 @@
+body
+{
+    background-color: rgb(110, 147, 180);
+    color: white;
+}
+.b_Tag
+{
+    color: lime;
+}
+.heading
+{
+    width:80%;
+    font-size:22px;
+}
+#camera
+{
+    width:350px;
+    height:300px;
+    border:2px solid maroon;
+}
+#span1
+{
+    color:red;
+}
+#span2
+{
+    color:blue;
+}
+label
+{
+    font-size:22px;
+}
